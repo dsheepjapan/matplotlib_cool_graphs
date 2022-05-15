@@ -1,5 +1,8 @@
 # おしゃれグラフ用 自作スタイルシート(matplotlib)
 matplotlibのグラフスタイルを自作スタイルシートで変更します。
+おしゃれグラフ例
+![09_correlation_09_pairwise_scatter_plot_gray](https://user-images.githubusercontent.com/104011447/168474386-413423de-fe61-42d4-be0e-6433e7ef0b4d.png)
+![09_correlation_09_pairwise_reg_plot_white](https://user-images.githubusercontent.com/104011447/168474445-2fe7b216-e357-4905-8c84-1cd80016f366.png)
 
 
 
